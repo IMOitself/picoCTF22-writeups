@@ -1,3 +1,10 @@
+# picoCTF 2022 writeups
+every challenges i answered. with actual screenshots and recordings :D
+
+the answers on how to get the flag are highlighted on the screenshots.
+
+dont need to explain that much, goodluck :>
+
 ## Web Exploitation
 <details>
 <summary>- Local Authority - easy</summary>
