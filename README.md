@@ -1,14 +1,14 @@
-- New folder - Local Authority, Web Exploitation, Easy
-- New folder (2) - Inspect HTML, Web Exploitation, Easy
-- New folder (3) - Includes, Web Exploitation, Easy
-- New folder (4) - Vigenere, Cryptography, Medium
-- New folder (5) - unpackme.py, Reverse Engineering, Medium
-- New folder (6) - unpackme, Reverse Engineering, Medium
-- New folder (7) - St3g0, Forensics, Medium
-- New folder (8) - Packets Primer, Forensics, Medium
-- New folder (9) - Eavesdrop, Forensics, Medium
-- New folder (10) - File types, Forensics, Medium
-- New folder (11) - Redaction gone wrong, Forensics, Medium
-- New folder (12) - Enhance!, Forensics, Medium
-- New folder (13) - Lookey here, Forensics, Medium
-- New folder (14) - Torrent Analyze, Forensics, Medium
+- web-exploit/local-authority - Local Authority, Web Exploitation, Easy
+- web-exploit/inspect-html - Inspect HTML, Web Exploitation, Easy
+- web-exploit/includes - Includes, Web Exploitation, Easy
+- crypto/vigenere - Vigenere, Cryptography, Medium
+- rev/unpackme.py - unpackme.py, Reverse Engineering, Medium
+- rev/unpackme - unpackme, Reverse Engineering, Medium
+- forensics/st3g0 - St3g0, Forensics, Medium
+- forensics/packets-primer - Packets Primer, Forensics, Medium
+- forensics/eavesdrop - Eavesdrop, Forensics, Medium
+- forensics/file-types - File types, Forensics, Medium
+- forensics/redaction-gone-wrong - Redaction gone wrong, Forensics, Medium
+- forensics/enhance! - Enhance!, Forensics, Medium
+- forensics/lookey-here - Lookey here, Forensics, Medium
+- forensics/torrent-analyze - Torrent Analyze, Forensics, Medium
