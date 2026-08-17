@@ -1,0 +1,14 @@
+- New folder - Local Authority, Web Exploitation, Easy
+- New folder (2) - Inspect HTML, Web Exploitation, Easy
+- New folder (3) - Includes, Web Exploitation, Easy
+- New folder (4) - Vigenere, Cryptography, Medium
+- New folder (5) - unpackme.py, Reverse Engineering, Medium
+- New folder (6) - unpackme, Reverse Engineering, Medium
+- New folder (7) - St3g0, Forensics, Medium
+- New folder (8) - Packets Primer, Forensics, Medium
+- New folder (9) - Eavesdrop, Forensics, Medium
+- New folder (10) - File types, Forensics, Medium
+- New folder (11) - Redaction gone wrong, Forensics, Medium
+- New folder (12) - Enhance!, Forensics, Medium
+- New folder (13) - Lookey here, Forensics, Medium
+- New folder (14) - Torrent Analyze, Forensics, Medium
