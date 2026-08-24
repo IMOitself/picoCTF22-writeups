@@ -65,7 +65,7 @@ dont need to explain that much, goodluck :>
 
 **solution:**
 - ![](rev/unpackme.py/recording.gif)
-- <details><summary>(as video player)</summary><video controls src="rev/unpackme.py/recording.mp4" title="Title"></video></details>
+- <details><summary>(as video player)</summary>[Video](<rev/unpackme.py/recording.mp4>)</details>
 
 <br>
 
@@ -79,7 +79,7 @@ dont need to explain that much, goodluck :>
 - i opened it on ghidra. i found the exact hex that the program compare against to spit out the flag.
 - ![](<rev/unpackme/Screenshot 2026-08-12 172148.png>)
 - ![](rev/unpackme/recording.gif)
-- <details><summary>(as video player)</summary><video controls src="rev/unpackme/recording.mp4" title="Title"></video></details>
+- <details><summary>(as video player)</summary>[Video](<rev/unpackme/recording.mp4>)</details>
 
 <br>
 
@@ -96,7 +96,7 @@ dont need to explain that much, goodluck :>
 **solution:**
 - i use [aperisolve](https://www.aperisolve.com/). i only do the terminal just to show what tool worked.
 - ![](forensics/st3g0/recording.gif)
-- <details><summary>(as video player)</summary><video controls src="forensics/st3g0/recording.mp4" title="Title"></video></details>
+- <details><summary>(as video player)</summary>[Video](<forensics/st3g0/recording.mp4>)</details>
 
 <br>
 
@@ -107,7 +107,7 @@ dont need to explain that much, goodluck :>
 <summary>- Packets Primer - medium</summary>
 
 **solution:**
-- <video controls src="forensics/packets-primer/Screen Recording 2026-08-15 154103.mp4" title="Title"></video>
+- [Video](<forensics/packets-primer/Screen Recording 2026-08-15 154103.mp4>)
 
 <br>
 
@@ -119,9 +119,9 @@ dont need to explain that much, goodluck :>
 
 **solution:**
 - i searched for the port 9002 as said on the conversation. the port is not visible by default on wireshark, just search for it on how to add it as a column.
-- <video controls src="forensics/eavesdrop/Screen Recording 2026-08-15 160923.mp4" title="Title"></video>
+- [Video](<forensics/eavesdrop/Screen Recording 2026-08-15 160923.mp4>)
 - ![](forensics/eavesdrop/recording.gif)
-- <details><summary>(as video player)</summary><video controls src="forensics/eavesdrop/recording.mp4" title="Title"></video></details>
+- <details><summary>(as video player)</summary>[Video](<forensics/eavesdrop/recording.mp4>)</details>
 
 <br>
 
@@ -133,7 +133,7 @@ dont need to explain that much, goodluck :>
 
 **solution:**
 - ![](forensics/file-types/recording.gif)
-- <details><summary>(as video player)</summary><video controls src="forensics/file-types/recording.mp4" title="Title"></video></details>
+- <details><summary>(as video player)</summary>[Video](<forensics/file-types/recording.mp4>)</details>
 
 <br>
 
@@ -156,7 +156,7 @@ dont need to explain that much, goodluck :>
 
 **solution:**
 - ![](forensics/enhance!/recording.gif)
-- <details><summary>(as video player)</summary><video controls src="forensics/enhance!/recording.mp4" title="Title"></video></details>
+- <details><summary>(as video player)</summary>[Video](<forensics/enhance!/recording.mp4>)</details>
 
 <br>
 
@@ -168,7 +168,7 @@ dont need to explain that much, goodluck :>
 
 **solution:**
 - ![](forensics/lookey-here/recording.gif)
-- <details><summary>(as video player)</summary><video controls src="forensics/lookey-here/recording.mp4" title="Title"></video></details>
+- <details><summary>(as video player)</summary>[Video](<forensics/lookey-here/recording.mp4>)</details>
 
 <br>
 
@@ -179,7 +179,7 @@ dont need to explain that much, goodluck :>
 <summary>- Torrent Analyze - medium</summary>
 
 **solution:**
-- <video controls src="forensics/torrent-analyze/Screen Recording 2026-08-17 165049.mp4" title="Title"></video>
+- [Video](<forensics/torrent-analyze/Screen Recording 2026-08-17 165049.mp4>)
 
 - **DISCLAIMER**
   when u search the hash on google.
