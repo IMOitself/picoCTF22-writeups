@@ -107,7 +107,7 @@ dont need to explain that much, goodluck :>
 <summary>- Packets Primer - medium</summary>
 
 **solution:**
-- [Video](<forensics/packets-primer/Screen Recording 2026-08-15 154103.mp4>)
+- ![Video](<forensics/packets-primer/Screen Recording 2026-08-15 154103.gif>)
 
 <br>
 
@@ -119,7 +119,7 @@ dont need to explain that much, goodluck :>
 
 **solution:**
 - i searched for the port 9002 as said on the conversation. the port is not visible by default on wireshark, just search for it on how to add it as a column.
-- [Video](<forensics/eavesdrop/Screen Recording 2026-08-15 160923.mp4>)
+- ![Video](<forensics/eavesdrop/Screen Recording 2026-08-15 160923.gif>)
 - ![](forensics/eavesdrop/recording.gif)
 - <details><summary>(as video player)</summary>[Video](<forensics/eavesdrop/recording.mp4>)</details>
 
@@ -179,7 +179,7 @@ dont need to explain that much, goodluck :>
 <summary>- Torrent Analyze - medium</summary>
 
 **solution:**
-- [Video](<forensics/torrent-analyze/Screen Recording 2026-08-17 165049.mp4>)
+- ![Video](<forensics/torrent-analyze/Screen Recording 2026-08-17 165049.gif>)
 
 - **DISCLAIMER**
   when u search the hash on google.
