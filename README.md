@@ -1,6 +1,6 @@
 # picoCTF 2022 writeups
 
-| [skip to cheatsheet](#) | [rshdgvn's writeups](https://github.com/v1neSec/CTF-sheet) | 
+| [skip to cheatsheet](#cheatsheets-d) | [rshdgvn's writeups](https://github.com/v1neSec/CTF-sheet) | 
 
 every challenges i answered. with actual screenshots and recordings :D
 
