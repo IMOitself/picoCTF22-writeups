@@ -207,11 +207,7 @@ dont need to explain that much, goodluck :>
 
 </details>
 
-<details>
-<summary><h2>CHEATSHEETS :D</h2></summary>
-
-# useful guides :D
-
+# CHEATSHEETS :D
 - [**Forensics**](#forensics)
   - [extracting texts from a file](#extracting-texts-from-a-file)
 - [**Cryptography**](#cryptography)
@@ -598,5 +594,3 @@ async function spam() {
 }
 spam(); // this triggers the function to start
 ```
-
-</details>
