@@ -229,7 +229,7 @@ dont need to explain that much, goodluck :>
 
 </details>
 <details>
-<summary>- Sleuthkit Intro - easy</summary>
+<summary>- Sleuthkit Intro - medium</summary>
 
 **solution:**
 - ![](forensics/sleuthkit-intro/recording.gif)
@@ -251,6 +251,19 @@ dont need to explain that much, goodluck :>
 <br>
 
 ![](forensics/sleuthkit-apprentice/image.png)
+
+</details>
+<details>
+<summary>- Operation Oni - medium</summary>
+
+**solution:**
+- i dont have enough time to explain its 2 AM but basically i use [Autopsy](https://www.autopsy.com/download/) to search for root and found .ssh.
+- ![](forensics/operation-oni/solution.png)
+- ![](forensics/operation-oni/recording.gif)
+
+<br>
+
+![](forensics/operation-oni/image.png)
 
 </details>
 
