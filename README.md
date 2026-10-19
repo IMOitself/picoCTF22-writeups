@@ -240,6 +240,19 @@ dont need to explain that much, goodluck :>
 ![](forensics/sleuthkit-intro/Screenshot%202026-10-19%20225620.png)
 
 </details>
+<details>
+<summary>- Sleuthkit Apprentice - medium</summary>
+
+**solution:**
+- i dont have enough time to explain its 1 AM but basically i use [Autopsy](https://www.autopsy.com/download/) to search for deleted files.
+- ![](forensics/sleuthkit-apprentice/step1.png)
+- ![](forensics/sleuthkit-apprentice/step2.png)
+
+<br>
+
+![](forensics/sleuthkit-apprentice/image.png)
+
+</details>
 
 # <br><br>CHEATSHEETS :D
 - [**Forensics**](#forensics)

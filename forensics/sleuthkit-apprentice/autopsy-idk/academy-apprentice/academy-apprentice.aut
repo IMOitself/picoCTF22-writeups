@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2026/10/20 01:08:46 (SGT)</CreatedDate>
+  <ModifiedDate>2026/10/20 01:08:51 (SGT)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.23.1</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.23.1</SavedByAutopsyVersion>
+  <Case>
+    <Name>academy-apprentice_20261020_010846</Name>
+    <DisplayName>academy-apprentice</DisplayName>
+    <Number/>
+    <Examiner/>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>
