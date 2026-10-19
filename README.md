@@ -44,6 +44,17 @@ dont need to explain that much, goodluck :>
 ![](web-exploit/includes/Screenshot%202026-08-12%20151617.png)
 
 </details>
+<details>
+<summary>- Power Cookie - medium</summary>
+
+**solution:**
+- ![](web-exploit/power-cookie/solution.png)
+
+<br>
+
+![](web-exploit/power-cookie/image.png)
+
+</details>
 
 <br>
 
