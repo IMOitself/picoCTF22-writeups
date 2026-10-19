@@ -206,6 +206,18 @@ dont need to explain that much, goodluck :>
 ![](forensics/torrent-analyze/Screenshot%202026-08-17%20165922.png)
 
 </details>
+<details>
+<summary>- Sleuthkit Intro - easy</summary>
+
+**solution:**
+- ![](forensics/sleuthkit-intro/recording.gif)
+- <details><summary>(as video player)</summary>[Video](<forensics/sleuthkit-intro/recording.mp4>)</details>
+
+<br>
+
+![](forensics/sleuthkit-intro/Screenshot%202026-10-19%20225620.png)
+
+</details>
 
 # <br><br>CHEATSHEETS :D
 - [**Forensics**](#forensics)
