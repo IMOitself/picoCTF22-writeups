@@ -70,6 +70,17 @@ dont need to explain that much, goodluck :>
 ![](crypto/vigenere/Screenshot%202026-08-12%20152014.png)
 
 </details>
+<details>
+<summary>- Morse Code - medium</summary>
+
+**solution:**
+- ![](<crypto/morse-code/solution.png>)
+
+<br>
+
+![](crypto/morse-code/image.png)
+
+</details>
 
 <br>
 
