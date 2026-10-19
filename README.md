@@ -266,6 +266,19 @@ dont need to explain that much, goodluck :>
 ![](forensics/operation-oni/image.png)
 
 </details>
+<details>
+<summary>- Operation Orchid - medium</summary>
+
+**solution:**
+- i dont have enough time to explain its 2 AM but basically i use [Autopsy](https://www.autopsy.com/download/) to search for root and look on .ash_history.
+- ![](forensics/operation-orchid/solution.png)
+- ![](forensics/operation-orchid/recording.gif)
+
+<br>
+
+![](forensics/operation-orchid/image.png)
+
+</details>
 
 # <br><br>CHEATSHEETS :D
 - [**Forensics**](#forensics)
